@@ -1,0 +1,5 @@
+.env
+__pycache__/
+data/leads.db
+data/leads_export.*
+*.pyc
